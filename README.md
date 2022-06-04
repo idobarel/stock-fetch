@@ -7,7 +7,7 @@ Run this command >>
 ```bash
 # read an installer file and run it in your pc...
 # SUDO IS REQUIRED!
-sudo sh -c "$(wget -qO- https://raw.githubusercontent.com/idobarel/emoji-fatch/main/install.sh)"
+sudo sh -c "$(wget -qO- https://raw.githubusercontent.com/idobarel/stock-fetch/main/install.sh)"
 ```
 
 # How to use ? 
