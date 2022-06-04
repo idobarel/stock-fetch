@@ -45,7 +45,7 @@ class HandleStock():
         self.stock = s
 
     def printName(self):
-        s = colored(f"{self.stock.name} : {self.stock.price}",
+        s = colored(f"{self.stock.name} : {self.stock.price}$",
                     "magenta", attrs=['bold'])
         print(s)
 
