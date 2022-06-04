@@ -1,0 +1,5 @@
+plotext
+numpy
+pandas_datareader
+termcolor
+requests
