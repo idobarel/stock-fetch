@@ -1,4 +1,4 @@
-﻿# Stock Fetch
+# Stock Fetch
 
 A simple python3 program that fetching the price of a given stock or crypto from the internet.
 
