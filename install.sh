@@ -6,7 +6,7 @@ pip3 install -r requirements.txt
 mv main.py sf
 dos2unix sf
 chmod +x sf
-sudo mv ef /usr/local/bin
+sudo mv sf /usr/local/bin
 rm requirements.txt
 clear
 echo "Done! Use sf [stock | crypto]"
